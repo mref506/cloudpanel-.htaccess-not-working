@@ -10,14 +10,14 @@ You need to use **Nginx configuration** instead.
 Login to your CloudPanel.  
 Go to **Sites** and **Manage** the site you want to configure for the `.htaccess` equivalent setup, as shown in **picture 1.png**.
 
-![Description of image](./images/picture1.png)
+![Description of image](images/1.png)
 
 ---
 
 ## Step 2: Open the Vhost Editor
 Once opened, click on **Vhost** as shown in **picture 2.png**.
 
-![Description of image](./images/picture2.png)
+![Description of image](images/2.png)
 
 ---
 
@@ -31,7 +31,7 @@ server {
 }
 ```
 
-![Description of image](./images/picture3.png)
+![Description of image](images/3.png)
 
 ---
 
